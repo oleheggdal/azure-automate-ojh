@@ -1,3 +1,2 @@
-$navn = Read-Host "Skriv inn ditt navnet dine"
+$navn = Read-Host "Skriv inn navnet ditt"
 Write-Output "Hei $navn"
-#test_kommentar
