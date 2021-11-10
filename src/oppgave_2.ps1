@@ -1,4 +1,4 @@
 Param (
-  $navnet
+  $navn
 )
 Write-Host "Hei, $navn"
